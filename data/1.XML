@@ -1,0 +1,106 @@
+<File>
+	<Number>1</Number>
+	<Name>Fixed Totaliser</Name>
+	<Date>18/12/2017</Date>
+	<Time>10:51</Time>
+	<Records><Record><Number>1</Number>
+	<Name>Gross</Name>
+	<Resetable>-1</Resetable>
+	<Printable>-1</Printable>
+	</Record><Record favorite="False" title="Ghostbusters"><Number>2</Number>
+	<Name>Net</Name>
+	<Resetable>-1</Resetable>
+	<Printable>-1</Printable>
+	</Record><Record><Number>3</Number>
+	<Name>CAID</Name>
+	<Resetable>-1</Resetable>
+	<Printable>-1</Printable>
+	</Record><Record><Number>4</Number>
+	<Name>CQID</Name>
+	<Resetable>-1</Resetable>
+	<Printable>-1</Printable>
+	</Record><Record><Number>5</Number>
+	<Name>CRID</Name>
+	<Resetable>-1</Resetable>
+	<Printable>-1</Printable>
+	</Record><Record><Number>6</Number>
+	<Name>CREDIT CUSTOMER</Name>
+	<Resetable>-1</Resetable>
+	<Printable>-1</Printable>
+	</Record><Record><Number>7</Number>
+	<Name>VOID TL</Name>
+	<Resetable>-1</Resetable>
+	<Printable>-1</Printable>
+	</Record><Record><Number>8</Number>
+	<Name>RF MODE</Name>
+	<Resetable>-1</Resetable>
+	<Printable>0</Printable>
+	</Record><Record><Number>9</Number>
+	<Name>Service </Name>
+	<Resetable>-1</Resetable>
+	<Printable>-1</Printable>
+	</Record><Record><Number>10</Number>
+	<Name>VATABLE AMT</Name>
+	<Resetable>-1</Resetable>
+	<Printable>-1</Printable>
+	</Record><Record><Number>11</Number>
+	<Name>VAT </Name>
+	<Resetable>-1</Resetable>
+	<Printable>-1</Printable>
+	</Record><Record><Number>12</Number>
+	<Name>EAT IN TOTAL</Name>
+	<Resetable>-1</Resetable>
+	<Printable>-1</Printable>
+	</Record><Record><Number>13</Number>
+	<Name>SERVICE CHARGE</Name>
+	<Resetable>-1</Resetable>
+	<Printable>-1</Printable>
+	</Record><Record><Number>14</Number>
+	<Name>TA3</Name>
+	<Resetable>-1</Resetable>
+	<Printable>0</Printable>
+	</Record><Record><Number>15</Number>
+	<Name>TAX3</Name>
+	<Resetable>-1</Resetable>
+	<Printable>0</Printable>
+	</Record><Record><Number>16</Number>
+	<Name>TA4</Name>
+	<Resetable>-1</Resetable>
+	<Printable>0</Printable>
+	</Record><Record><Number>17</Number>
+	<Name>TAX4</Name>
+	<Resetable>-1</Resetable>
+	<Printable>0</Printable>
+	</Record><Record><Number>18</Number>
+	<Name>TA5</Name>
+	<Resetable>-1</Resetable>
+	<Printable>0</Printable>
+	</Record><Record><Number>19</Number>
+	<Name>TAX5</Name>
+	<Resetable>-1</Resetable>
+	<Printable>0</Printable>
+	</Record><Record><Number>20</Number>
+	<Name>Cover TTL</Name>
+	<Resetable>-1</Resetable>
+	<Printable>0</Printable>
+	</Record><Record><Number>21</Number>
+	<Name>Spent per cover</Name>
+	<Resetable>-1</Resetable>
+	<Printable>0</Printable>
+	</Record><Record><Number>22</Number>
+	<Name>EAT IN</Name>
+	<Resetable>-1</Resetable>
+	<Printable>0</Printable>
+	</Record><Record><Number>23</Number>
+	<Name>TAKE AWAY</Name>
+	<Resetable>-1</Resetable>
+	<Printable>0</Printable>
+	</Record><Record><Number>24</Number>
+	<Name>GT Gross</Name>
+	<Resetable>-1</Resetable>
+	<Printable>0</Printable>
+	</Record><Record><Number>25</Number>
+	<Name>GT Net</Name>
+	<Resetable>-1</Resetable>
+	<Printable>0</Printable>
+	</Record></Records></File>
